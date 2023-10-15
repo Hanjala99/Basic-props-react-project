@@ -1,8 +1,32 @@
-# React + Vite
+# React.js + Vite Project with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple project created with React.js and Vite, featuring a basic navbar and three cards. Tailwind CSS is used for styling.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Basic navbar.
+- Three cards with customizable images and titles using props.
+- Default values for images and titles if props are not provided.
+- Responsive design with Tailwind CSS.
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git remote add origin https://github.com/Hanjala99/Basic-props-react-project.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Basic-props-react-project
+
+3. Install the project dependencies using npm or yarn:
+
+    ```bash
+    npm install
+
+4. To start the development server and run the application:
+
+    ```bash
+    npm run dev   
