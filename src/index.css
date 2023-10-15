@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (max-width: 800px){
+  .card-container{
+    flex-wrap: wrap;
+    padding: 0 15px;
+  }
+}
